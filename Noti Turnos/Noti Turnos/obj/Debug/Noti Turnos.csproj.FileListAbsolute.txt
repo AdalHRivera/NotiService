@@ -1,0 +1,11 @@
+C:\Users\ahernandezr\documents\visual studio 2017\Projects\Noti Turnos\Noti Turnos\bin\Debug\Noti Turnos.exe.config
+C:\Users\ahernandezr\documents\visual studio 2017\Projects\Noti Turnos\Noti Turnos\bin\Debug\Noti Turnos.exe
+C:\Users\ahernandezr\documents\visual studio 2017\Projects\Noti Turnos\Noti Turnos\bin\Debug\Noti Turnos.pdb
+C:\Users\ahernandezr\documents\visual studio 2017\Projects\Noti Turnos\Noti Turnos\bin\Debug\RestSharp.dll
+C:\Users\ahernandezr\documents\visual studio 2017\Projects\Noti Turnos\Noti Turnos\bin\Debug\ServiceStack.Text.dll
+C:\Users\ahernandezr\documents\visual studio 2017\Projects\Noti Turnos\Noti Turnos\bin\Debug\Slack.Webhooks.dll
+C:\Users\ahernandezr\documents\visual studio 2017\Projects\Noti Turnos\Noti Turnos\bin\Debug\RestSharp.xml
+C:\Users\ahernandezr\documents\visual studio 2017\Projects\Noti Turnos\Noti Turnos\bin\Debug\ServiceStack.Text.xml
+C:\Users\ahernandezr\documents\visual studio 2017\Projects\Noti Turnos\Noti Turnos\obj\Debug\Noti Turnos.exe
+C:\Users\ahernandezr\documents\visual studio 2017\Projects\Noti Turnos\Noti Turnos\obj\Debug\Noti Turnos.pdb
+C:\Users\ahernandezr\documents\visual studio 2017\Projects\Noti Turnos\Noti Turnos\obj\Debug\Noti Turnos.csprojResolveAssemblyReference.cache
