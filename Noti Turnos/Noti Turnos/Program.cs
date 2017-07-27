@@ -11,19 +11,6 @@ namespace Noti_Turnos
     {
         static void Main(string[] args)
         {
-            /*
-            // Inicio :3
-            string greet = "\n" +
-                            "\t##  ## ##   ##  ##  ####  ###### ##### " + "\n" +
-                            "\t##  ## ##   ##  ## ###    ##     ##  ##" + "\n" +
-                            "\t###### ##   ##  ##  ####  ####   ##### " + "\n" +
-                            "\t##  ## ##   ##  ##    ### ##     ## ## " + "\n" +
-                            "\t##  ## ##    ####   ####  ###### ##  ##" + "\n";
-
-            // Console.WriteLine(greet);
-            */
-
-
             // Seteo del idioma español para representacion textual de fechas
             System.Globalization.CultureInfo esp = new System.Globalization.CultureInfo("es-HN");
 
@@ -72,9 +59,9 @@ namespace Noti_Turnos
                             // Parametros de conexion SMTP
                             Port = 587,
                             DeliveryMethod = SmtpDeliveryMethod.Network,
-                            Host = "diunsaex.diunsa.hn",
+                            Host = "host.example.com",
                             UseDefaultCredentials = false,
-                            Credentials = new NetworkCredential("ahernandezr", "Ah83701996", "diunsa.hn")
+                            Credentials = new NetworkCredential("", "", "")
                         };
 
                         do
@@ -226,21 +213,6 @@ namespace Noti_Turnos
                 // Cierre de conexion a la base de datos
                 sql.Close();
             }
-
-
-            /*
-            // Final :3
-            string bye = "\n" +
-                            "\t#####  ##  ## ######   ##  ##  ####  ###### ##### " + "\n" +
-                            "\t##  ## ##  ## ##       ##  ## ###    ##     ##  ##" + "\n" +
-                            "\t#####   ####  ####     ##  ##  ####  ####   ##### " + "\n" +
-                            "\t##  ##   ##   ##       ##  ##    ### ##     ## ## " + "\n" +
-                            "\t#####    ##   ######    ####   ####  ###### ##  ##" + "\n";
-
-            // Console.WriteLine(bye);
-
-            // Thread.Sleep(1500);
-            */
 
         }
     }
